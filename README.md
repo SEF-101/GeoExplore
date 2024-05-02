@@ -1,4 +1,6 @@
-# HB4_3
+# GeoExplore
+
+Welcome to GeoExplore! The Android app meant to keep local communities connected and aware!
 
 
 
