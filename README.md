@@ -16,10 +16,10 @@ Welcome to GeoExplore! The Android app designed to keep local communities connec
 
 ## Demo
 
-Check out the demo video to see GeoExplore in action:
+See GeoExplore in action:
 
 ![GeoExplore Demo](./demo.gif)
 
 ## About the Project
 
-GeoExplore was developed as part of **COM S 309: Software Development Practices** at Iowa State University. It showcases the application of software engineering principles in a real-world project.
+GeoExplore was developed as part of **COM S 309: Software Development Practices** at Iowa State University.
