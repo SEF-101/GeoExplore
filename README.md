@@ -18,7 +18,7 @@ Welcome to GeoExplore! The Android app designed to keep local communities connec
 
 Check out the demo video to see GeoExplore in action:
 
-[Demo Video](./demo.mp4)
+![GeoExplore Demo](./demo.gif)
 
 ## About the Project
 
